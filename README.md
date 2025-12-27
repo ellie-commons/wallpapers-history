@@ -4,13 +4,14 @@ History of the default wallpapers in elementary OS.
 > [!WARNING]
 > The default wallpapers on ancient OS releases originally from DeviantArt have been removed from recent OS releases due to licensing problem. Use them in personal use.
 
-## OS 8 Circe
+## OS 8/8.1 Circe
 ![OS 8.0.2 Circe screenshot](images/8_0_2_circe.png)
 
 [Download Wallpaper](https://github.com/elementary/wallpapers/blob/8.0.0/backgrounds/A%20Large%20Body%20of%20Water%20Surrounded%20By%20Mountains.jpg)
 
 - Author: [Peter Thomas](https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-Dxod5pdRtsk)
 - Shipped versions
+    - OS 8.1 (default)
     - OS 8 (default)
 
 ## OS 7/7.1 Horus
@@ -20,6 +21,7 @@ History of the default wallpapers in elementary OS.
 
 - Author: [Aniket Deole](https://unsplash.com/photos/photo-of-valley-M6XC789HLe8)
 - Shipped versions
+    - OS 8.1
     - OS 8
     - OS 7.1 (default)
     - OS 7 (default)
@@ -31,6 +33,7 @@ History of the default wallpapers in elementary OS.
 
 - Author: Brendon Porter, Ryan Gorley, et al.
 - Shipped versions
+    - OS 8.1
     - OS 8
     - OS 7.1
     - OS 7
@@ -44,6 +47,7 @@ History of the default wallpapers in elementary OS.
 
 - Author: Brendon Porter, Ryan Gorley, et al.
 - Shipped versions
+    - OS 8.1
     - OS 8
     - OS 7.1
     - OS 7
@@ -57,6 +61,7 @@ History of the default wallpapers in elementary OS.
 
 - Author: [Paul Carmona](https://unsplash.com/photos/empty-bridge-along-body-of-water-ces8_Bo7bhQ)
 - Shipped versions
+    - OS 8.1
     - OS 8
     - OS 7.1
     - OS 7
@@ -72,6 +77,7 @@ History of the default wallpapers in elementary OS.
 
 - Author: [Ashim D’Silva](https://unsplash.com/photos/scenery-of-mountain-canyon-WeYamle9fDM)
 - Shipped versions
+    - OS 8.1
     - OS 8
     - OS 7.1
     - OS 7
